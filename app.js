@@ -1,5 +1,5 @@
 
-// this starts everything at the begigning
+// this starts everything at the begigning 
 $(document).ready( function() {
 
 // this displays each colors in each boxes 
